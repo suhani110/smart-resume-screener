@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+*.env.local
+
+# Build artifacts
+dist/
+build/
+.next/
+out/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# App data (generated at runtime, not part of source)
+backend/uploads/
+backend/*.db

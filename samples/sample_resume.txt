@@ -1,0 +1,19 @@
+Ananya Sharma
+ananya.sharma@example.com | +91-9876543210
+
+Summary:
+Backend engineer with 3 years of experience building scalable REST APIs and
+data pipelines.
+
+Skills:
+Python, FastAPI, Django, PostgreSQL, MongoDB, Docker, AWS, Git, REST API,
+Machine Learning, Pandas, NumPy
+
+Experience:
+Backend Developer, TechNova Pvt Ltd (2022 - Present)
+- Built and maintained microservices in Python/FastAPI serving 2M+ requests/day
+- Designed PostgreSQL schemas and optimized slow queries
+- Deployed services to AWS using Docker and CI/CD pipelines
+
+Education:
+B.Tech in Computer Science, VIT Pune (2018 - 2022)

@@ -1,0 +1,14 @@
+Job Title: Backend Engineer (Python)
+
+We are looking for a Backend Engineer to join our platform team.
+
+Responsibilities:
+- Design and build REST APIs using Python (FastAPI or Django)
+- Work with PostgreSQL and MongoDB for data storage
+- Deploy and monitor services on AWS using Docker
+- Collaborate with the ML team on model-serving pipelines
+
+Requirements:
+- 2+ years of experience with Python, FastAPI, PostgreSQL
+- Familiarity with Docker, AWS, Git, REST API design
+- Bonus: experience with Machine Learning or data pipelines
