@@ -113,7 +113,7 @@ npm install
 npm run dev
 ```
 
-Dashboard available at `http://localhost:5173`.
+Dashboard available at `https://smart-resume-screener-frontend-e46n.onrender.com`.
 
 ### Quick test without the frontend
 
