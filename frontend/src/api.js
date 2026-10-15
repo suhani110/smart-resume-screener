@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://smart-resume-screener-1-hsfz.onrender.com";
 
 async function handle(res) {
   if (!res.ok) {
